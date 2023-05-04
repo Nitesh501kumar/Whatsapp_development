@@ -6,4 +6,4 @@
 
 4. Attachments (Audio,Video,Image)
 
-5. Hiding the last seen 
+ 
